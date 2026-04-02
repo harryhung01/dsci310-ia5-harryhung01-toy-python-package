@@ -23,3 +23,12 @@ python -m build
 ```bash
 python -m twine upload --repository testpypi dist/*
 ```
+
+## Publishing proof
+
+Published package: ia5-toy-python-package-harryhung01
+
+Version: 0.1.0
+
+TestPyPI link:
+https://test.pypi.org/project/ia5-toy-python-package-harryhung01/0.1.0/
