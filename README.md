@@ -1,6 +1,4 @@
-# ia5-toy-python-package-harryhung01
-
-Toy Python package for DSCI 310 Individual Assignment 5.
+# Toy Python package for DSCI 310 Individual Assignment 5.
 
 ## Install locally
 
